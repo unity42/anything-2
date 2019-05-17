@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "multi-maza",
+"dataUrl": "6c515d72951bc90cf34f5c4cce878728.unityweb",
+"wasmCodeUrl": "8feff511be6e4fab7790107516b14eb9.unityweb",
+"wasmFrameworkUrl": "d246f1e10d97e4e5ba3fe327a2564ff1.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292728"
+}
